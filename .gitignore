@@ -1,0 +1,15 @@
+# Maven build files
+target/
+
+# NetBeans private settings
+nbproject/private/
+
+# Compiled Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
